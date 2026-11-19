@@ -1,0 +1,7 @@
+nginx2root-check
+
+The HTTP/2 accounting sequence in nginx2root_check/probe.py is adapted from
+Censys Research's nginx2root h2c_flow_control_test.py.
+
+Copyright 2026 Censys, Inc.
+Licensed under the Apache License, Version 2.0.
